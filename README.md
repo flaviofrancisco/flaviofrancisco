@@ -3,8 +3,9 @@
 
 My name is Flavio Francisco a senior software developer with more than 10 years of experience in backend development using Microsoft Technologies like C# and Microsoft SQL Server.
 
-I am tech passionist specially in the following subjects: programming (C#; Python; JavaScript; TypeScript and Go); blockchain and AI. I worked in different sectors as a developer like: retail; financial market, fashion, maritime insurance and ocean science.
+I am a tech Passionist especially in the following subjects: programming (C#; Python; JavaScript; TypeScript and Go); blockchain and AI. 
 
+My years of experience allowed me to work in different fields as a developer like retail; financial market, fashion, maritime insurance, and ocean science.
 You may find me on the following channels:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flaviofranciscofr/)
